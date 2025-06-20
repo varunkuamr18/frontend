@@ -130,11 +130,11 @@ export default function Sidebar({ currentActive }) {
           <div className="flex items-center space-x-4 relative">
             <div className="relative">
               <div className="w-11 h-12 rounded-2xl flex items-center justify-center border border-pink-500/30 overflow-hidden">
-                <img src="/ms.png" alt="Logo" className="w-20 h-10 relative z-10" />
+                <img src="/mangekyo.png" alt="Logo" className="w-20 h-10 relative z-10" />
               </div>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-white">TaskForge</h1>
+              <h1 className="text-2xl font-bold text-white">Toman</h1>
               <p className="text-sm text-pink-300 font-medium">Workspace Manager</p>
             </div>
           </div>
